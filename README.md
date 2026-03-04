@@ -18,4 +18,5 @@
   &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" /></a> 
 </p>
+###
 ![Snake animation](https://github.com/ulusoyozgur/ulusoyozgur/blob/output/github-snake-dark.svg)
