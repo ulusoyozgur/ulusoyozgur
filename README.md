@@ -11,7 +11,11 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.kali.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" height="40" alt="kali linux logo" />
+  <span style="display:inline-flex; align-items:center; justify-content:center; 
+               background-color:#0f172a; padding:6px; border-radius:8px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" 
+         height="28" alt="kali linux logo" />
+  </span>
 </a>
 </p>
 
