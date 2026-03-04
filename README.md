@@ -13,6 +13,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ulusoyozgur&show_icons=true&locale=en" alt="ulusoyozgur" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ulusoyozgur&" alt="ulusoyozgur" /></p>
