@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-plain.svg" height="40" alt="kali logo" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" /></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Kali-dragon-icon.svg" width="40" height="40" style="background-color: #242938; border-radius: 6px; padding: 4px;" alt="kali linux logo" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" /></a>
 </p>
 
 ![Snake animation](https://github.com/ulusoyozgur/ulusoyozgur/blob/output/github-snake-dark.svg)
