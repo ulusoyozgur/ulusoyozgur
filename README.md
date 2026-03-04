@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Özgür Ulusoy</h1>
 <h3 align="center">Software Engineering student focused on software development & cybersecurity</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulusoyozgur" alt="ulusoyozgur" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
