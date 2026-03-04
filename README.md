@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineering student focused on software development & cybersecurity</h3>
 
 
-
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
 </p>
