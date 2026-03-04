@@ -18,8 +18,4 @@
   &nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" /></a> 
 </p>
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ulusoyozgur&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulusoyozgur&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages" />
-</div>
+
