@@ -4,12 +4,20 @@ on:
   schedule:
     # Her 24 saatte bir otomatik çalışır
     - cron: "0 */24 * * *"
-  workflow_dispatch: # Manuel olarak da çalıştırabilmen için
+  workflow_dispatch: # Manuel çalıştırma butonu sağlar
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dosyaları klasöre yazma yetkisi verir
+    
     steps:
+      # 1. Depoyu kontrol et
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      # 2. Yılan animasyonunu oluştur
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
@@ -20,6 +28,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # 3. Oluşturulan SVG dosyasını 'output' branch'ine yükle
       - name: Push Snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
