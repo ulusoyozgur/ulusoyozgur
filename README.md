@@ -4,6 +4,14 @@
 
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/%C3%B6zg%C3%BCr-ulusoy-314000387/" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="mailto:ulusoyozgurr1@gmail.com" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+</p>
 
 <p align="left">
 </p>
