@@ -22,5 +22,3 @@
 
 
 ![Snake animation](https://github.com/ulusoyozgur/ulusoyozgur/blob/output/github-snake-dark.svg)
-
-![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=300&section=header&text=Özgür%20Ulusoy&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Cybersecurity%20Enthusiast&descAlignY=51&descSize=20)
