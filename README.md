@@ -1,25 +1,26 @@
 <h1 align="center">Hi 👋, I'm Özgür Ulusoy</h1>
 <h3 align="center">Software Engineering student focused on software development & cybersecurity</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/%C3%B6zg%C3%BCr-ulusoy-314000387/" target="blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ulusoyozgurr1@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</p>
+<br/>
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/%C3%B6zg%C3%BCr-ulusoy-314000387/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:ulusoyozgurr1@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
-### 🛠 Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/> </a> 
-</p>
-
-### 📊 GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ulusoyozgur&show_icons=true&theme=tokyonight" alt="ozgur-stats" />
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
+  </a> 
 </p>
