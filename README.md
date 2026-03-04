@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.kali.org/" target="_blank" rel="noreferrer" style="display:inline-block; width:40px; height:40px; border-radius:10px; border: 1px solid #333; background-color: #1a1a1a; padding: 5px; box-sizing: border-box; vertical-align: middle;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" style="width:100%; height:100%; object-fit:contain;" alt="kali linux logo" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" /></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo" /></a>
 </p>
 
 ![Snake animation](https://github.com/ulusoyozgur/ulusoyozgur/blob/output/github-snake-dark.svg)
