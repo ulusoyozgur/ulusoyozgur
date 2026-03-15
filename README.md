@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Özgür Ulusoy</h1>
 
-<h3 align="center">Software Engineering student focused on software development & cybersecurity</h3>
+<h3 align="center">Software Engineeringer exploring the intersection of AI and software development.
 
 <br/>
 
